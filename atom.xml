@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://alhern.github.io/"/>
-  <updated>2017-05-04T12:43:05.402Z</updated>
+  <updated>2017-05-04T15:39:13.720Z</updated>
   <id>https://alhern.github.io/</id>
   
   <author>
@@ -14,6 +14,27 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>test encore</title>
+    <link href="https://alhern.github.io/2017/05/04/test-encore/"/>
+    <id>https://alhern.github.io/2017/05/04/test-encore/</id>
+    <published>2017-05-04T15:35:12.000Z</published>
+    <updated>2017-05-04T15:39:13.720Z</updated>
+    
+    <content type="html"><![CDATA[<p>rien à voir<br>lalala </p>
+<p>lalal<br><a id="more"></a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;rien à voir&lt;br&gt;lalala &lt;/p&gt;
+&lt;p&gt;lalal&lt;br&gt;
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Yep, it works now!</title>
