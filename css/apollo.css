@@ -131,7 +131,11 @@ a.post-title-link:hover{
 
 hr{border:0}
 
-code{margin:0 2px;padding:3px 5px;color:#e96900;border-radius:2px;white-space:inherit}
+code{margin:0 2px;
+	padding:3px 5px;
+	color:#f70083;
+	border-radius:2px;
+	white-space:inherit}
 
 iframe,video{max-width:100%;margin:1rem auto;display:block}
 
@@ -240,7 +244,11 @@ ul{list-style:initial}
 
 .post-content a{color:#49adff;word-break:break-all}
 
-.post-content blockquote{margin:2em 0;padding-left:20px;border-left:4px solid #49adff}
+.post-content blockquote{
+	margin:2em 0;
+	padding-left:20px;
+	border-left:3px solid #dbdbdb;
+background: #F8F8F8;}
 
 .post-content img{display:block;max-width:100%;margin:1em auto}
 
