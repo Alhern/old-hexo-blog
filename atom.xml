@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://alhern.github.io/"/>
-  <updated>2017-05-04T21:08:36.754Z</updated>
+  <updated>2017-05-05T15:23:53.369Z</updated>
   <id>https://alhern.github.io/</id>
   
   <author>
@@ -14,6 +14,36 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Todo dans un futur très proche</title>
+    <link href="https://alhern.github.io/2017/05/05/Todo-dans-un-futur-tres-proche/"/>
+    <id>https://alhern.github.io/2017/05/05/Todo-dans-un-futur-tres-proche/</id>
+    <published>2017-05-05T15:22:22.000Z</published>
+    <updated>2017-05-05T15:23:53.369Z</updated>
+    
+    <content type="html"><![CDATA[<ul>
+<li>Continuer l’apprentissage de Node.js</li>
+<li>Continuer sur React</li>
+<li>SQL (MySQL)</li>
+<li>Du CSS (Sass, etc), faire un stylesheet réutilisable</li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;ul&gt;
+&lt;li&gt;Continuer l’apprentissage de Node.js&lt;/li&gt;
+&lt;li&gt;Continuer sur React&lt;/li&gt;
+&lt;li&gt;SQL (MySQL)&lt;/li&gt;
+&lt;li&gt;Du CSS (Sass, etc), faire un styles
+    
+    </summary>
+    
+    
+      <category term="todo" scheme="https://alhern.github.io/tags/todo/"/>
+    
+  </entry>
   
   <entry>
     <title>Test encore</title>
@@ -49,7 +79,7 @@
 <p>Use the <code>printf()</code> function.<br>Alright.<br><code>There is a literal backtick (`) here.</code><br>A single backtick in a code span: <code>` </code></p>
 <p>A backtick-delimited string in a code span: <code>`foo` </code></p>
 <p>Please don’t use any <code>&lt;blink&gt;</code> tags.</p>
-<p><a href="&#x6d;&#97;&#105;&#x6c;&#116;&#111;&#x3a;&#97;&#100;&#100;&#x72;&#x65;&#115;&#x73;&#64;&#101;&#x78;&#x61;&#x6d;&#x70;&#x6c;&#x65;&#x2e;&#x63;&#111;&#x6d;">&#97;&#100;&#100;&#x72;&#x65;&#115;&#x73;&#64;&#101;&#x78;&#x61;&#x6d;&#x70;&#x6c;&#x65;&#x2e;&#x63;&#111;&#x6d;</a></p>
+<p><a href="&#109;&#97;&#x69;&#x6c;&#x74;&#111;&#58;&#x61;&#x64;&#x64;&#x72;&#x65;&#115;&#115;&#64;&#101;&#120;&#97;&#109;&#x70;&#108;&#x65;&#46;&#99;&#x6f;&#109;">&#x61;&#x64;&#x64;&#x72;&#x65;&#115;&#115;&#64;&#101;&#120;&#97;&#109;&#x70;&#108;&#x65;&#46;&#99;&#x6f;&#109;</a></p>
 ]]></content>
     
     <summary type="html">
