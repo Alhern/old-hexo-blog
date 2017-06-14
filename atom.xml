@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://alhern.github.io/"/>
-  <updated>2017-06-14T21:20:48.178Z</updated>
+  <updated>2017-06-14T21:22:12.537Z</updated>
   <id>https://alhern.github.io/</id>
   
   <author>
@@ -20,16 +20,16 @@
     <link href="https://alhern.github.io/2017/06/14/Semantic-UI-s-dealbreaker/"/>
     <id>https://alhern.github.io/2017/06/14/Semantic-UI-s-dealbreaker/</id>
     <published>2017-06-14T21:19:40.000Z</published>
-    <updated>2017-06-14T21:20:48.178Z</updated>
+    <updated>2017-06-14T21:22:12.537Z</updated>
     
     <content type="html"><![CDATA[<p>Semantic doesn’t have a collapsible navbar. There is no hamburger.</p>
-<p>Well hello again, Boostrap.</p>
+<p>Well hello again, Bootstrap.</p>
 ]]></content>
     
     <summary type="html">
     
       &lt;p&gt;Semantic doesn’t have a collapsible navbar. There is no hamburger.&lt;/p&gt;
-&lt;p&gt;Well hello again, Boostrap.&lt;/p&gt;
+&lt;p&gt;Well hello again, Bootstrap.&lt;/p&gt;
 
     
     </summary>
@@ -125,7 +125,7 @@
 <p>Use the <code>printf()</code> function.<br>Alright.<br><code>There is a literal backtick (`) here.</code><br>A single backtick in a code span: <code>` </code></p>
 <p>A backtick-delimited string in a code span: <code>`foo` </code></p>
 <p>Please don’t use any <code>&lt;blink&gt;</code> tags.</p>
-<p><a href="&#x6d;&#x61;&#105;&#x6c;&#116;&#x6f;&#58;&#x61;&#x64;&#100;&#114;&#101;&#x73;&#x73;&#64;&#101;&#120;&#97;&#x6d;&#x70;&#108;&#x65;&#x2e;&#99;&#111;&#x6d;">&#x61;&#x64;&#100;&#114;&#101;&#x73;&#x73;&#64;&#101;&#120;&#97;&#x6d;&#x70;&#108;&#x65;&#x2e;&#99;&#111;&#x6d;</a></p>
+<p><a href="&#x6d;&#x61;&#x69;&#x6c;&#116;&#x6f;&#58;&#97;&#x64;&#x64;&#x72;&#101;&#115;&#x73;&#64;&#101;&#120;&#x61;&#109;&#x70;&#108;&#x65;&#x2e;&#x63;&#x6f;&#x6d;">&#97;&#x64;&#x64;&#x72;&#101;&#115;&#x73;&#64;&#101;&#120;&#x61;&#109;&#x70;&#108;&#x65;&#x2e;&#x63;&#x6f;&#x6d;</a></p>
 ]]></content>
     
     <summary type="html">
