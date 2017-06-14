@@ -106,13 +106,13 @@ ul.nav,ul.post-list{margin:0;padding:0;list-style-type:none}
 ul{margin:1rem 0}a,a:active{color:#2c3e50;text-decoration:none}
 
 a.nav-list-link.active{
-	border-bottom:4px solid #fc4942;
+	border-bottom:4px solid #ff726d;
 /*	box-shadow: inset 0 -3px 0 #89CAFF;*/
 	font-weight: bold;
 }
 
 a.nav-list-link:hover{
-	border-bottom:4px solid #fc4942;
+	border-bottom:4px solid #ff726d;
 /*	box-shadow: inset 0 -3px 0 #89CAFF;*/
 }
 
@@ -127,7 +127,7 @@ font-family: "Roboto Mono";
 
 a.post-title-link:hover{
 	/*background: #C9E6FF;*/
-	border-bottom:2px solid #F9E1E1;
+	border-bottom:2px solid #ff726d;
 }
 
 hr{border:0}
@@ -364,7 +364,7 @@ pre .coffeescript .javascript,pre .javascript .xml,pre .tex .formula,pre .xml .j
 	background-color: #f7f7f7;}
 
 .paginator .prev:hover,.paginator .next:hover{
-	background-color:#fc4942}
+	background-color:#ff726d}
 
 .ds-thread,#disqus_thread{margin-bottom:2em}
 
