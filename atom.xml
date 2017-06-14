@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://alhern.github.io/"/>
-  <updated>2017-06-14T14:21:10.150Z</updated>
+  <updated>2017-06-14T21:20:48.178Z</updated>
   <id>https://alhern.github.io/</id>
   
   <author>
@@ -14,6 +14,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Semantic UI&#39;s dealbreaker</title>
+    <link href="https://alhern.github.io/2017/06/14/Semantic-UI-s-dealbreaker/"/>
+    <id>https://alhern.github.io/2017/06/14/Semantic-UI-s-dealbreaker/</id>
+    <published>2017-06-14T21:19:40.000Z</published>
+    <updated>2017-06-14T21:20:48.178Z</updated>
+    
+    <content type="html"><![CDATA[<p>Semantic doesn’t have a collapsible navbar. There is no hamburger.</p>
+<p>Well hello again, Boostrap.</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Semantic doesn’t have a collapsible navbar. There is no hamburger.&lt;/p&gt;
+&lt;p&gt;Well hello again, Boostrap.&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Remembering Mongo</title>
@@ -103,7 +125,7 @@
 <p>Use the <code>printf()</code> function.<br>Alright.<br><code>There is a literal backtick (`) here.</code><br>A single backtick in a code span: <code>` </code></p>
 <p>A backtick-delimited string in a code span: <code>`foo` </code></p>
 <p>Please don’t use any <code>&lt;blink&gt;</code> tags.</p>
-<p><a href="&#x6d;&#x61;&#105;&#108;&#x74;&#111;&#x3a;&#x61;&#100;&#100;&#x72;&#x65;&#x73;&#x73;&#64;&#101;&#x78;&#97;&#109;&#x70;&#108;&#x65;&#46;&#99;&#111;&#109;">&#x61;&#100;&#100;&#x72;&#x65;&#x73;&#x73;&#64;&#101;&#x78;&#97;&#109;&#x70;&#108;&#x65;&#46;&#99;&#111;&#109;</a></p>
+<p><a href="&#x6d;&#x61;&#105;&#x6c;&#116;&#x6f;&#58;&#x61;&#x64;&#100;&#114;&#101;&#x73;&#x73;&#64;&#101;&#120;&#97;&#x6d;&#x70;&#108;&#x65;&#x2e;&#99;&#111;&#x6d;">&#x61;&#x64;&#100;&#114;&#101;&#x73;&#x73;&#64;&#101;&#120;&#97;&#x6d;&#x70;&#108;&#x65;&#x2e;&#99;&#111;&#x6d;</a></p>
 ]]></content>
     
     <summary type="html">
