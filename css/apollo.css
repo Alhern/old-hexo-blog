@@ -99,7 +99,7 @@ body{margin:0;
 	font-size: 18px;
 	line-height:1.6;
 	background-color:#fff;
-	font-family: /*'Source Sans Pro',*/ 'Helvetica Neue', Arial, sans-serif}
+	font-family: 'sourcesanspro', 'Helvetica Neue', Arial, sans-serif}
 
 ul.nav,ul.post-list{margin:0;padding:0;list-style-type:none}
 
@@ -122,12 +122,12 @@ a.nav-list-link:hover{
 
 a.post-title-link{
 /*box-shadow: inset 0 -26px 0 #E2F2FF, 2px 2px 0 #f7f7f7;*/
-font-family: "Roboto Mono";
+font-family: "sourcesanspro";
 }
 
 a.post-title-link:hover{
-	/*background: #C9E6FF;*/
-	border-bottom:2px solid #ff726d;
+	color: #ff726d;
+	/*border-bottom:2px solid #F9E1E1;*/
 }
 
 hr{border:0}
@@ -158,7 +158,7 @@ header .logo-link img{height:60px}
 
 header .nav-list-item{display:inline-block;padding:19px  10px}
 
-header .nav-list-item a{font-size:16px;line-height:1.4}
+header .nav-list-item a{font-size:18px;line-height:1.4}
 
 .home.post-list{margin:2em 0}
 
@@ -289,7 +289,12 @@ background: #F8F8F8;}
 
 .highlight .code pre .line{width:auto;height:18px}
 
-.highlight.html .code:after,.highlight.js .code:after,.highlight.bash .code:after,.highlight.css .code:after,.highlight.scss .code:after,.highlight.diff .code:after,.highlight.java .code:after,.highlight.xml .code:after,.highlight.python .code:after,.highlight.json .code:after,.highlight.swift .code:after,.highlight.ruby .code:after,.highlight.perl .code:after,.highlight.php .code:after,.highlight.c .code:after,.highlight.cpp .code:after,.highlight.ts .code:after{position:absolute;top:0;right:0;color:#ccc;text-align:right;font-size:0.75em;padding:5px 10px 0;line-height:15px;height:15px;font-weight:600}
+.highlight.html .code:after,.highlight.js .code:after,.highlight.bash .code:after,.highlight.css .code:after,.highlight.scss .code:after,.highlight.diff .code:after,.highlight.java .code:after,.highlight.xml .code:after,.highlight.python .code:after,.highlight.json .code:after,.highlight.swift .code:after,.highlight.ruby .code:after,.highlight.perl .code:after,.highlight.php .code:after,.highlight.c .code:after,.highlight.cpp .code:after,.highlight.ts .code:after{
+	position:absolute;
+	top:0;right:0;color:#ccc;text-align:right;
+	font-size:0.75em;
+	padding:5px 10px 0;line-height:15px;
+	height:15px;font-weight:600}
 
 .highlight.html .code:after{content:"HTML"}
 
@@ -358,13 +363,13 @@ pre .coffeescript .javascript,pre .javascript .xml,pre .tex .formula,pre .xml .j
 	margin:0 1px;
 	padding:1px 4px;
 	border-radius:4px;
-	border:1px solid #bfe5ff;
+	border:1px solid #FF726D;
 	font-size:16px;
-	color:#49B4FD;
-	background-color: #f7f7f7;}
+	color:#FF726D;
+	background-color: #fff;}
 
 .paginator .prev:hover,.paginator .next:hover{
-	background-color:#ff726d}
+	background-color:#eae8e8}
 
 .ds-thread,#disqus_thread{margin-bottom:2em}
 
