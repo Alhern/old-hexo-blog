@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://alhern.github.io/"/>
-  <updated>2017-06-14T21:22:12.537Z</updated>
+  <updated>2017-06-27T23:14:12.165Z</updated>
   <id>https://alhern.github.io/</id>
   
   <author>
@@ -14,6 +14,36 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Mongoose + Heroku + mLab</title>
+    <link href="https://alhern.github.io/2017/06/28/Mongoose-+-Heroku-+-mLab/"/>
+    <id>https://alhern.github.io/2017/06/28/Mongoose-+-Heroku-+-mLab/</id>
+    <published>2017-06-27T22:57:17.000Z</published>
+    <updated>2017-06-27T23:14:12.165Z</updated>
+    
+    <content type="html"><![CDATA[<ol>
+<li><p>Configurate Heroku with:</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">heroku config:<span class="built_in">set</span> MONGOLAB_URI=mongodb://[username]:[password]@xx000000.mlab.com:00000/[project-name]</div></pre></td></tr></table></figure>
+</li>
+<li><p>Add to app.js:</p>
+<figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div></pre></td><td class="code"><pre><div class="line"><span class="keyword">const</span> mongodbUri = process.env.MONGOLAB_URI;</div><div class="line"></div><div class="line">mongoose.connect(mongodbUri, (err, res) =&gt; &#123;</div><div class="line">	<span class="keyword">if</span> (err) &#123;</div><div class="line">		<span class="built_in">console</span>.log(err);</div><div class="line">	&#125; <span class="keyword">else</span> &#123;</div><div class="line">		<span class="built_in">console</span>.log(<span class="string">'success!!!!!!!!!'</span>);</div><div class="line">	&#125;</div><div class="line">&#125;);</div></pre></td></tr></table></figure>
+</li>
+<li><p>At the bottom:</p>
+<figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line"><span class="keyword">const</span> port = process.env.PORT</div><div class="line"></div><div class="line">app.listen(process.env.PORT);</div></pre></td></tr></table></figure></li>
+</ol>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Configurate Heroku with:&lt;/p&gt;
+&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;/pre&gt;&lt;/
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Semantic UI&#39;s dealbreaker</title>
@@ -125,7 +155,7 @@
 <p>Use the <code>printf()</code> function.<br>Alright.<br><code>There is a literal backtick (`) here.</code><br>A single backtick in a code span: <code>` </code></p>
 <p>A backtick-delimited string in a code span: <code>`foo` </code></p>
 <p>Please don’t use any <code>&lt;blink&gt;</code> tags.</p>
-<p><a href="&#x6d;&#x61;&#105;&#x6c;&#x74;&#111;&#58;&#97;&#100;&#x64;&#x72;&#x65;&#x73;&#x73;&#64;&#x65;&#x78;&#97;&#109;&#112;&#108;&#101;&#x2e;&#99;&#111;&#x6d;">&#97;&#100;&#x64;&#x72;&#x65;&#x73;&#x73;&#64;&#x65;&#x78;&#97;&#109;&#112;&#108;&#101;&#x2e;&#99;&#111;&#x6d;</a></p>
+<p><a href="&#109;&#97;&#105;&#108;&#x74;&#111;&#x3a;&#x61;&#x64;&#x64;&#114;&#101;&#x73;&#x73;&#x40;&#x65;&#x78;&#x61;&#109;&#112;&#108;&#x65;&#46;&#99;&#x6f;&#x6d;">&#x61;&#x64;&#x64;&#114;&#101;&#x73;&#x73;&#x40;&#x65;&#x78;&#x61;&#109;&#112;&#108;&#x65;&#46;&#99;&#x6f;&#x6d;</a></p>
 ]]></content>
     
     <summary type="html">
